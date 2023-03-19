@@ -1,0 +1,1 @@
+All exercises were solved by myself, using this website https://www3.ntu.edu.sg/home/ehchua/programming/java/j3f_oopexercises.html as a guide
